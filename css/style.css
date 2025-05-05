@@ -155,7 +155,6 @@ ul, ol {
 /* Header e Hero */
 .hero {
     background-color: var(--secondary-color);
-    background-image: url('../img/bg-honeycomb.png');
     background-size: cover;
     background-position: center;
     padding: 40px 0 60px;
@@ -170,7 +169,6 @@ ul, ol {
     left: 0;
     width: 100%;
     height: 150px;
-    background-image: url('../img/dripping-honey.png');
     background-repeat: repeat-x;
     background-position: bottom center;
     z-index: 1;
